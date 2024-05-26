@@ -24,9 +24,9 @@ querystring = {"filter":"-1","jql":f"resolution = Unresolved and project = '{pro
 
 payload = ""
 headers = {
-    'Authorization': "Bearer ODAxMTEzMzk3NzQ0OgZXFqqF//mrVDvrNfW0vZ2gq+tR",
+    'Authorization': "Bearer [TOKEN-HERE]",
     'cache-control': "no-cache",
-    'Postman-Token': "b7b2884b-a7e6-41a2-a22a-41cf441d16ce",
+    'Postman-Token': "[TOKEN-HERE]",
 }
 
 # Makes the API call
